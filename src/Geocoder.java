@@ -12,7 +12,7 @@ import java.time.Duration;
 public class Geocoder {
 
     private static final String GEOCODING_RESOURCE = "https://geocode.search.hereapi.com/v1/geocode";
-    private static final String API_KEY = "lVi1duCLJEnAt8h4H2cGYAUIDTCpybYLe0FTDM7HpLg";
+    private static final String API_KEY = "YOUR_API_KEY";
 
     public String GeocodeSync(String query) throws IOException, InterruptedException {
 
