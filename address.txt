@@ -1,0 +1,62 @@
+chrompet :-
+
+hotel name : Copper kitchen 
+1 km far 
+address: 406, Grand Southern Trunk Rd, next to Chennai Silks, Lakshman Nagar, Chromepet, Chennai, Tamil Nadu 600044 
+
+
+
+Anjappar Chettinad restaurant 
+350m
+ 87/156 GST Road, Chennai - Theni Hwy, Kamarajar Nagar, Chromepet, Chennai, Tamil Nadu 600044
+
+
+Fazari 
+450m
+15, CLC Works Rd, Shastri Colony, Chromepet, Chennai, Tamil Nadu 600044
+
+
+Daalchini
+700m
+130, Grand Southern Trunk Rd, near New Saravana Store, Lakshmi Nagar, Chakrapani Colony, Chromepet, Chennai, Tamil Nadu 600044
+
+
+Hyssop 
+190m
+Doctors Colony, Chromepet, Chennai, Tamil Nadu 600044
+
+
+anna nagar :-
+
+
+Thenmanam 
+Plot 88, 5th Ave, V Block, Anna Nagar, Chennai, Tamil Nadu 600040
+
+Aachi namma kitchen 
+33, 3rd Ave, W Block, Anna Nagar, Chennai, Tamil Nadu 600040
+
+
+Hotel crescent 
+W9, N Main Rd, Anna Nagar West, Kailash Colony, Sector A, Anna Nagar West Extension, Chennai, Tamil Nadu 600101
+
+Tiffin shastra 
+995A/5, 2nd Avenue, 11th Main Rd, Anna Nagar, Chennai, Tamil Nadu 600040
+
+... all under same range (distance)
+
+user 1 
+address :
+4/137A, 3rd Cross St, Shastri Colony, Chromepet, Chennai, Tamil Nadu 600044
+
+user 2 :
+6th Cross St, New Colony, Chromepet, Chennai, Tamil Nadu 600044
+
+user3(organi.):-
+5th Ave, Y Block, Anna Nagar, Chennai, Tamil Nadu 600040
+ 
+
+
+
+
+
+
